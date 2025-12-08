@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/LucasLeocadiodeSouza">
-    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=LucasLeocadiodeSouza&show_icons=true&hide=stars,contribs&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=LucasLeocadiodeSouza&show_icons=true&hide=stars,contribs&theme=merko&card_width=400px&custom_title=GitHub&nbsp;Stats"/>
   </a>
   <a href="https://github.com/LucasLeocadiodeSouza">
     <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=LucasLeocadiodeSouza&layout=compact&theme=merko"/>
