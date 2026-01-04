@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://github.com/LucasLeocadiodeSouza">
-    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=LucasLeocadiodeSouza&show_icons=true&hide=stars,contribs&theme=merko&card_width=380&custom_title=GitHub&nbsp;Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLeocadiodeSouza&show_icons=true&hide=stars,contribs&theme=merko&card_width=380&custom_title=GitHub&nbsp;Stats"/>
   </a>
   <a href="https://github.com/LucasLeocadiodeSouza">
-    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=LucasLeocadiodeSouza&layout=compact&theme=merko&card_width=250"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLeocadiodeSouza&layout=compact&theme=merko&card_width=250"/>
   </a>
 </div>
 
